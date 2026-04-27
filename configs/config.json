@@ -1,0 +1,104 @@
+{
+  "name": "Timely GPT Full Config",
+  "version": "1.0.0",
+  "models": [
+    {
+      "title": "Timely GPT 5.1 Codex Mini",
+      "provider": "openai",
+      "model": "openai/gpt-5.1-codex-mini",
+      "apiKey": "YOUR_API_KEY_HERE",
+      "apiBase": "https://hello.timelygpt.co.kr/api/v2/chat/bridge/openai"
+    },
+    {
+      "title": "Timely GPT 5 Image Mini",
+      "provider": "openai",
+      "model": "openai/gpt-5-image-mini",
+      "apiKey": "YOUR_API_KEY_HERE",
+      "apiBase": "https://hello.timelygpt.co.kr/api/v2/chat/bridge/openai"
+    },
+    {
+      "title": "Timely GPT 5 Mini",
+      "provider": "openai",
+      "model": "openai/gpt-5-mini",
+      "apiKey": "YOUR_API_KEY_HERE",
+      "apiBase": "https://hello.timelygpt.co.kr/api/v2/chat/bridge/openai"
+    },
+    {
+      "title": "Timely GPT 5 Nano",
+      "provider": "openai",
+      "model": "openai/gpt-5-nano",
+      "apiKey": "YOUR_API_KEY_HERE",
+      "apiBase": "https://hello.timelygpt.co.kr/api/v2/chat/bridge/openai"
+    },
+    {
+      "title": "Timely GPT 4.1 Mini",
+      "provider": "openai",
+      "model": "openai/gpt-4.1-mini",
+      "apiKey": "YOUR_API_KEY_HERE",
+      "apiBase": "https://hello.timelygpt.co.kr/api/v2/chat/bridge/openai"
+    },
+    {
+      "title": "Timely GPT 4o Mini",
+      "provider": "openai",
+      "model": "openai/gpt-4o-mini",
+      "apiKey": "YOUR_API_KEY_HERE",
+      "apiBase": "https://hello.timelygpt.co.kr/api/v2/chat/bridge/openai"
+    },
+    {
+      "title": "Timely Gemini 3 Flash Preview",
+      "provider": "openai",
+      "model": "google/gemini-3-flash-preview",
+      "apiKey": "YOUR_API_KEY_HERE",
+      "apiBase": "https://hello.timelygpt.co.kr/api/v2/chat/bridge/openai"
+    },
+    {
+      "title": "Timely Gemini 2.5 Flash Image",
+      "provider": "openai",
+      "model": "google/gemini-2.5-flash-image",
+      "apiKey": "YOUR_API_KEY_HERE",
+      "apiBase": "https://hello.timelygpt.co.kr/api/v2/chat/bridge/openai"
+    },
+    {
+      "title": "Timely Gemini 2.5 Flash Lite",
+      "provider": "openai",
+      "model": "google/gemini-2.5-flash-lite",
+      "apiKey": "YOUR_API_KEY_HERE",
+      "apiBase": "https://hello.timelygpt.co.kr/api/v2/chat/bridge/openai"
+    },
+    {
+      "title": "Timely Grok 4.1 Fast",
+      "provider": "openai",
+      "model": "x-ai/grok-4.1-fast",
+      "apiKey": "YOUR_API_KEY_HERE",
+      "apiBase": "https://hello.timelygpt.co.kr/api/v2/chat/bridge/openai"
+    },
+    {
+      "title": "Timely Grok 4 Fast",
+      "provider": "openai",
+      "model": "x-ai/grok-4-fast",
+      "apiKey": "YOUR_API_KEY_HERE",
+      "apiBase": "https://hello.timelygpt.co.kr/api/v2/chat/bridge/openai"
+    },
+    {
+      "title": "Timely Grok Code Fast 1",
+      "provider": "openai",
+      "model": "x-ai/grok-code-fast-1",
+      "apiKey": "YOUR_API_KEY_HERE",
+      "apiBase": "https://hello.timelygpt.co.kr/api/v2/chat/bridge/openai"
+    },
+    {
+      "title": "Timely Claude Haiku 4.5",
+      "provider": "openai",
+      "model": "anthropic/claude-haiku-4.5",
+      "apiKey": "YOUR_API_KEY_HERE",
+      "apiBase": "https://hello.timelygpt.co.kr/api/v2/chat/bridge/openai"
+    }
+  ],
+  "tabAutocompleteModel": {
+    "title": "Timely Autocomplete (GPT 5.1 Codex)",
+    "provider": "openai",
+    "model": "openai/gpt-5.1-codex-mini",
+    "apiKey": "YOUR_API_KEY_HERE",
+    "apiBase": "https://hello.timelygpt.co.kr/api/v2/chat/bridge/openai"
+  }
+}
