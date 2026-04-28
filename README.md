@@ -1,12 +1,23 @@
-# timely_compat_setting
+# [DISCONTINUED]timely_compat_setting
 > 타임리를 쓰는 컨픽 : continue에서 테스트됨  
   
   &nbsp;  
   &nbsp;  
   &nbsp;  
   &nbsp;  
+  # Discontinued
+config.yaml에 맞춰서 수정하고  
+모델들도 지원 가능한것로 다 수정했습니다.  
+  
+과정에서 프록시 서버가 요구되어 막판 호환작업에 있었습니다.  
+다만, 제공량을 심각하게 소모하고  
+제공량 리필이 되지 않아 못 쓸거 같아서 개발 중단합니다.
+&nbsp;  
+&nbsp;  
+&nbsp;  
 **continue**  
 ```
+# 일부 모델만 작동합니다.
 1. VSC continue 익스텐션 설치
 2. continue 익스텐션 설정 진입
 3. Local Config 찾기
@@ -20,11 +31,8 @@
 &nbsp;  
 &nbsp;  
 &nbsp;  
-모델 몇개 테스트 해봤는데 이 모델들만 사용 가능한거 같아요..
-&nbsp;  
 &nbsp;  
 &nbsp;  
   
-*Credit.*  
-*Chonnam National Univ.*
-  
+*~~Credit.~~*  
+*~~Chonnam National Univ.~~*
